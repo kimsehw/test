@@ -15,6 +15,9 @@ public class add{
 		int result = x/y;
 		return result;
 	}
+		void print(){
+		System.out.println("HI");
+	}
 
 
 
