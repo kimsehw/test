@@ -3,10 +3,15 @@ public class add{
 		int result = x+y;
 		return result;
 	}
-		int mints(int x,int y){
+		int minus(int x,int y){
 		int result = x-y;
 		return result;
 	}
+		int multiple(int x,int y){
+		int result = x*y;
+		return result;
+	}
+
 
 
 
