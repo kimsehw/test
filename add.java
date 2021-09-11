@@ -18,6 +18,11 @@ public class add{
 		void print(){
 		System.out.println("HI");
 	}
+		int remainder(int x,int y){
+		int result = x%y;
+		return result;
+	}// 충돌 유발 주석
+
 
 
 
