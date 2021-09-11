@@ -11,6 +11,11 @@ public class add{
 		int result = x*y;
 		return result;
 	}
+		int divide(int x,int y){
+		int result = x/y;
+		return result;
+	}
+
 
 
 
